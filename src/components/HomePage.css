@@ -1,0 +1,29 @@
+.home-page {
+  font-family: 'Optima', sans-serif !important;
+}
+
+.home-page .tool-bar {
+  position: static;
+  background: rgb(182, 178, 206) !important;
+}
+
+.home-page .tool-bar .tool-bar-tab {
+  color: rgb(252, 247, 247) !important;
+  font-family: 'Optima', sans-serif !important;
+}
+
+.home-page .block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 750px;
+  background: #193366;
+}
+
+.home-page .block .title {
+  text-align: center;
+  font-size: 100;
+  color: black;
+  font-weight: 100;
+}
